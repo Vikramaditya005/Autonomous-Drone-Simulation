@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models & checkpoints
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+data_park/
+*.npy
+*.npz
+
+# Logs
+logs/
+outputs/
