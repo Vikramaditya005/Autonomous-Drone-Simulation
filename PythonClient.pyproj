@@ -122,10 +122,6 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
   </PropertyGroup>
-  <!-- Uncomment the CoreCompile target to enable the Build command in
-       Visual Studio and specify your pre- and post-build commands in
-       the BeforeBuild and AfterBuild targets below. -->
-  <!--<Target Name="CoreCompile" />-->
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
